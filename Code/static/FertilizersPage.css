@@ -1,0 +1,38 @@
+h3{
+  font-family: Calibri; 
+  font-size: 25pt;         
+  font-style: normal; 
+  font-weight: bold; 
+  color:rgba(0, 0, 0, 0.863);
+  text-align: center; 
+  text-decoration: underline
+}
+
+table{
+  font-family: Calibri; 
+  color:white; 
+  font-size: 11pt; 
+  font-style: normal;
+  font-weight: bold;
+  text-align:; 
+  background-color: rgb(53, 168, 65, 0.863); 
+  border-collapse: collapse; 
+  border: 2px solid navy
+}
+table.inner{
+  border: 0px
+}
+body,h1 {font-family: "Raleway", sans-serif; font-size: 14;}
+body, html {height: 100%}
+.bgimg {
+  background-image: url('https://media.istockphoto.com/id/959697442/photo/farmer-giving-granulated-fertilizer-to-young-tomato-plants.jpg?s=612x612&w=0&k=20&c=4sewLXboXwTJY9kAXcyjw0GAwN33XzEGVjln597d_aE=');
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+.jumbo {
+  font-size: 6vw;
+}
+.pumbo {
+  font-size: 1.5vw;
+}
